@@ -29,7 +29,7 @@
 
 Minecraft Paper 服务端简单自定义内容框架 · 基于 PaperAPI 的简易架构
 
-`GPL-3.0` · ![GitHub stars](https://img.shields.io/github/stars/MoYuSOwO/NeoArtisan?style=social)
+![GitHub stars](https://img.shields.io/github/stars/MoYuSOwO/NeoArtisan?style=social)
 
 ### 🌱 其他项目
 - [Farmer's Delight Repaper](https://github.com/KitsunaiMC/FarmersDelightRepaper) - 农夫乐事Paper复刻版（基于NeoArtisan开发）
