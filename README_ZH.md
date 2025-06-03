@@ -5,7 +5,9 @@
 [![NeoArtisan Maintainer](https://img.shields.io/badge/-NeoArtisan%20Maintainer-0088CC?style=flat-square)](https://github.com/MoYuSOwO/NeoArtisan)
 
 **新手程序员 | 开源倡导者 | Java 开发者 | Minecraft 生态贡献者**
+
 致力于构建易扩展的 Minecraft Paper 服务端解决方案，尽微薄力量推动开源生态
+
 设计哲学：简洁 ≠ 简单，优雅实现 > 复杂配置
 
 ## 🛠 技术栈与工具
@@ -24,7 +26,9 @@
 ## 🔥 活跃项目
 
 ### 🧱 [NeoArtisan](https://github.com/KitsunaiMC/NeoArtisan)
+
 Minecraft Paper 服务端简单自定义内容框架 · 基于 PaperAPI 的简易架构
+
 `GPL-3.0` · ![GitHub stars](https://img.shields.io/github/stars/MoYuSOwO/NeoArtisan?style=social)
 
 ### 🌱 其他项目
@@ -38,6 +42,7 @@ Minecraft Paper 服务端简单自定义内容框架 · 基于 PaperAPI 的简�
 
 ## 📜 开源许可声明
 
+
 ```markdown
 所有个人开源项目默认采用 **GNU General Public License v3.0** 许可协议
 
@@ -49,6 +54,7 @@ Minecraft Paper 服务端简单自定义内容框架 · 基于 PaperAPI 的简�
 
 [![GPLv3 Logo](https://www.gnu.org/graphics/gplv3-or-later.png)](https://www.gnu.org/licenses/gpl-3.0.html)
 ```
+
 
 ### 为什么选择 GPL-3.0？
 > "保护开源生态的健康发展，确保创新成果能持续回馈社区"
