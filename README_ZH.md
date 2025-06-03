@@ -43,7 +43,6 @@ Minecraft Paper 服务端简单自定义内容框架 · 基于 PaperAPI 的简�
 ## 📜 开源许可声明
 
 
-```markdown
 所有个人开源项目默认采用 **GNU General Public License v3.0** 许可协议
 
 ### GPL-3.0 核心条款：
@@ -53,7 +52,6 @@ Minecraft Paper 服务端简单自定义内容框架 · 基于 PaperAPI 的简�
 4. **相同许可** - 衍生作品必须使用相同许可证
 
 [![GPLv3 Logo](https://www.gnu.org/graphics/gplv3-or-later.png)](https://www.gnu.org/licenses/gpl-3.0.html)
-```
 
 
 ### 为什么选择 GPL-3.0？
