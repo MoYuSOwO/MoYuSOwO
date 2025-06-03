@@ -1,5 +1,11 @@
 # 🚀 MoYuSOwO · Java 开发者
 
+<p align="left">
+  <a href="https://github.com/MoYuSOwO/MoYuSOwO/blob/main/README_zh.md">
+    <img src="https://img.shields.io/badge/English Version-0088CC?style=for-the-badge&logo=open-access&logoColor=white" alt="English Version">
+  </a>
+</p>
+
 [![GPLv3 License](https://img.shields.io/badge/License-GPL%203.0-blue.svg?style=flat-square)](https://opensource.org/licenses/GPL-3.0)
 [![Minecraft Plugin Developer](https://img.shields.io/badge/-Minecraft%20Plugin%20Developer-00AA00?style=flat-square&logo=java&logoColor=white)](https://github.com/MoYuSOwO)
 [![NeoArtisan Maintainer](https://img.shields.io/badge/-NeoArtisan%20Maintainer-0088CC?style=flat-square)](https://github.com/KitsunaiMC/NeoArtisan)
